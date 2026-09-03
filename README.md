@@ -111,7 +111,7 @@ making.
 ---
 
 ---
-## GITHUB STATISTICS & ANALYSIS:
+## 📊 GITHUB STATISTICS & ANALYSIS
 
 <h3>🔥 GitHub Streak</h3>
 
