@@ -139,13 +139,12 @@ making.
   <img
     src="https://github-readme-stats.shion.dev/api?username=mehsam1999&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false"
     alt="GitHub Statistics"
-    width="49%"
+    width="45%"
   />
-
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=mehsam1999&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
     alt="Top Languages"
-    width="49%"
+    width="45%"
   />
 </p>
 
