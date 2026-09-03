@@ -2,7 +2,7 @@
   <img
     src="./github-banner.png"
     width="100%"
-    alt="Tarek Hasan GitHub Profile Banner"
+    alt="afir GitHub Profile Banner"
   />
 </p>
 
