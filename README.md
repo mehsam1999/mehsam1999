@@ -43,30 +43,23 @@ making.
 ---
 <h2>📫 Connect with Me</h2>
 
-<ul>
-  <li>
-    💼 <strong>LinkedIn:</strong>
-    <a href="https://www.linkedin.com/in/md-afir-uddin-bhuiyan/">
-      DM me through linkedin
-    </a>
-  </li>
+<p>
+  <a href="https://www.linkedin.com/in/md-afir-uddin-bhuiyan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-  <li>
-    📧 <strong>Email:</strong>
-    <a href="mailto:afiruddinbhuiyan@gmail.com">
-      Gmail
-    </a>
-  </li>
+  <a href="mailto:afiruddinbhuiyan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 
-  <li>
-    📧 <strong>Facebook:</strong>
-    <a href="https://www.facebook.com/mehsam.afir">
-      DM me through fb
-    </a>
-  </li>
+  <a href="https://www.facebook.com/mehsam.afir">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 
-
-</ul>
+  <a href="https://leetcode.com/u/mehsam_afir/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
 
 ---
 
