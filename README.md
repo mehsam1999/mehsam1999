@@ -113,7 +113,27 @@ making.
 ---
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
-<h3>🔥 GitHub Streak</h3>
+<h3>GitHub Contributions:</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mehsam1999/mehsam1999/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mehsam1999/mehsam1999/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      src="https://raw.githubusercontent.com/mehsam1999/mehsam1999/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    >
+  </picture>
+</p>
+
+<h3>Repository Stats & Streak:</h3>
 
 <p align="center">
   <img
