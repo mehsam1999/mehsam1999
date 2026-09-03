@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> About Me</b>
+## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30"><b> About Me</b>
 
 Research oriented CSE Graduate pursuing an MSc in CSE at BRAC University, with experience in machine learning, data analytics, and AI
 in Healthcare. Committed to leveraging data, technology, and analytical thinking to drive operational excellence and informed decision
