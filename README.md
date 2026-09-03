@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="30"><b> About Me</b>
+## 👨‍💻 About Me
 
 Research oriented CSE Graduate pursuing an MSc in CSE at BRAC University, with experience in machine learning, data analytics, and AI
 in Healthcare. Committed to leveraging data, technology, and analytical thinking to drive operational excellence and informed decision
@@ -22,7 +22,7 @@ making.
 
 ---
 
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> Updates</b>
+## 🚀 Updates
 
 - 🖥️ Currently working with **Tailwind CSS, DaisyUI, JavaScript, TypeScript, React.js** for frontend development and **Google Colab, MySQL, Firebase** for AI/ML projects, database management, and backend integration.
 - 🗄️ Currently Exploring and Learning **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for backend development.
@@ -42,7 +42,7 @@ making.
 </p>
 
 ---
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> Connect with Me</b>
+## 📫 Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/md-afir-uddin-bhuiyan/">
@@ -64,7 +64,7 @@ making.
 
 ---
 
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> Tech Stack</b>
+## 🛠️ Tech Stack
 
 <h3>Frontend</h3>
 
@@ -111,7 +111,7 @@ making.
 ---
 
 ---
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## GITHUB STATISTICS & ANALYSIS:
 
 <h3>🔥 GitHub Streak</h3>
 
