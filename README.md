@@ -30,6 +30,7 @@ making.
 - 📚 Continuously learning through **hands-on projects, problem-solving, and practical development**.
 - 💡 Ask me about **JavaScript, TypeScript, React.js  for Frontend Development, Git and GitHub**.
 - 🤖 Exploring **Al in Healthcare based research** and real-world AI applications.
+- 🌐 Explore My [Resume](./Md-Afir-Uddin-Bhuiyan-Resume.pdf)
 
 <br>
 
