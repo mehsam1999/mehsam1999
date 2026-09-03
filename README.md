@@ -113,16 +113,16 @@ making.
 ---
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-# 🔥 GitHub Streak
+<h3>🔥 GitHub Streak</h3>
 
 <p align="center">
-
   <img
     src="https://streak-stats.demolab.com/?user=mehsam1999&theme=radical&hide_border=true"
     alt="GitHub Streak"
+    width="100%"
   />
-
 </p>
+
 <br/>
 
 
