@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> About Me</b>
 
 Research oriented CSE Graduate pursuing an MSc in CSE at BRAC University, with experience in machine learning, data analytics, and AI
 in Healthcare. Committed to leveraging data, technology, and analytical thinking to drive operational excellence and informed decision
@@ -22,7 +22,7 @@ making.
 
 ---
 
-## 🚀 Updates
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> Updates</b>
 
 - 🖥️ Currently working with **Tailwind CSS, DaisyUI, JavaScript, TypeScript, React.js** for frontend development and **Google Colab, MySQL, Firebase** for AI/ML projects, database management, and backend integration.
 - 🗄️ Currently Exploring and Learning **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for backend development.
@@ -42,7 +42,7 @@ making.
 </p>
 
 ---
-<h2>📫 Connect with Me</h2>
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> Connect with Me</b>
 
 <p>
   <a href="https://www.linkedin.com/in/md-afir-uddin-bhuiyan/">
@@ -64,7 +64,7 @@ making.
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> Tech Stack</b>
 
 <h3>Frontend</h3>
 
