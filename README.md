@@ -2,7 +2,7 @@
   <img
     src="./github-banner.png"
     width="100%"
-    alt="afir GitHub Profile Banner"
+    alt="Afir GitHub Profile Banner"
   />
 </p>
 
@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?lines=Research+oriented+CSE+Graduate;Aspiring+Full+Stack+Engineer;AI+Enthusiast;&center=true&width=500&height=50"
+      src="https://readme-typing-svg.herokuapp.com?lines=Research+oriented+CSE+Graduate;Full+Stack+Engineer;AI+Enthusiast;&center=true&width=500&height=50"
       alt="Typing SVG"
     >
   </a>
