@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?lines=Research+oriented+CSE+Graduate;Full+Stack+Engineer;AI+Enthusiast;&center=true&width=500&height=50"
+      src="https://readme-typing-svg.herokuapp.com?lines=Research+oriented+CSE+Graduate;Frontend+Developer;AI+Enthusiast;&center=true&width=500&height=50"
       alt="Typing SVG"
     >
   </a>
@@ -38,7 +38,7 @@ making.
 - 📚 Continuously learning through **hands-on projects, problem-solving, and practical development**.
 - 💡 Ask me about **JavaScript, TypeScript, React.js  for Frontend Development, Git and GitHub**.
 - 🤖 Exploring **Al in Healthcare based research** and real-world AI applications.
-- 🌐 Explore My [Resume](https://drive.google.com/file/d/1oCogrDCqFdwTxfJ7PuOql6KgoiRYG-xk/view?usp=drive_link)
+- 🌐 Explore My [Resume](https://drive.google.com/file/d/1a-1G6Yk0aPaEZjh0QBXEpnDwOth97Gws/view?usp=sharing)
 
 <br>
 
