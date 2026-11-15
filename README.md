@@ -32,11 +32,11 @@ making.
 
 ## 🚀 Updates
 
-- 🖥️ Currently working with **Tailwind CSS, DaisyUI, JavaScript, TypeScript, React.js, Next.js, REST APIs** for frontend development and **Google Colab, MySQL, Firebase, BetterAuth** for AI/ML projects, database management, and backend integration.
-- 🗄️ Currently Exploring and Learning **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for backend development.
-- 🛠️ Currently pursuing **an MSc in CSE at BRAC University, exploring AI, Machine Learning, and working on AI-driven solutions for real-world healthcare problems**.
+- 🖥️ Currently working with **JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Shadcn/UI, HeroUI, DaisyUI, RESTful API Design & Integration** for frontend development and **Node.js, Express.js, MongoDB, BetterAuth, JWT** for Authentication, database management, and backend integration.
+- 🗄️ Currently Exploring and Learning **Mongoose, PostgreSQL, and Prisma** for backend development.
+- 🛠️ Currently pursuing **an MSc in CSE at BRAC University, exploring Deep Learning, Advanced NLP, Explainable AI & Data Security, and working on AI-driven solutions for real-world healthcare problems**.
 - 📚 Continuously learning through **hands-on projects, problem-solving, and practical development**.
-- 💡 Ask me about **JavaScript, TypeScript, React.js  for Frontend Development, Git and GitHub**.
+- 💡 Ask me about **JavaScript, TypeScript, React.js, and Next.js for Frontend Development; Node.js, Express.js, and MongoDB for Backend Development; and Git & GitHub for Version Control.**.
 - 🤖 Exploring **Al in Healthcare based research** and real-world AI applications.
 - 🌐 Explore My [Resume](https://drive.google.com/file/d/1a-1G6Yk0aPaEZjh0QBXEpnDwOth97Gws/view?usp=sharing)
 
