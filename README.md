@@ -34,7 +34,7 @@ CSE graduate from MIST, currently pursuing an MSc in CSE at BRAC University. MER
 - 🗄️ Currently Exploring and Learning **Mongoose, PostgreSQL, and Prisma** for backend development.
 - 🛠️ Currently pursuing **an MSc in CSE at BRAC University, exploring Deep Learning, Advanced NLP, Explainable AI & Data Security, and working on AI-driven solutions for real-world healthcare problems**.
 - 📚 Continuously learning through **hands-on projects, problem-solving, and practical development**.
-- 💡 Ask me about **JavaScript, TypeScript, React.js, and Next.js for Frontend Development; Node.js, Express.js, and MongoDB for Backend Development; and Git & GitHub for Version Control.**.
+- 💡 Ask me about **JavaScript, TypeScript, React.js, and Next.js for Frontend Development; Node.js, Express.js, and MongoDB for Backend Development; and Git & GitHub for Version Control**.
 - 🤖 Exploring **Al in Healthcare based research** and real-world AI applications.
 - 🌐 Explore My [Resume](https://drive.google.com/file/d/1a-1G6Yk0aPaEZjh0QBXEpnDwOth97Gws/view?usp=sharing)
 
