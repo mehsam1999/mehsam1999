@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?lines=Research+oriented+CSE+Graduate;Frontend+Developer;AI+Enthusiast;&center=true&width=500&height=50"
+      src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Web+Development;Research+oriented+CSE+Graduate;AI+Enthusiast;&center=true&width=500&height=50"
       alt="Typing SVG"
     >
   </a>
