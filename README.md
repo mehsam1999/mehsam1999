@@ -24,9 +24,7 @@
 
 ## 👨‍💻 About Me
 
-Research oriented CSE Graduate pursuing an MSc in CSE at BRAC University, with experience in machine learning, data analytics, and AI
-in Healthcare. Committed to leveraging data, technology, and analytical thinking to drive operational excellence and informed decision
-making.
+CSE graduate from MIST, currently pursuing an MSc in CSE at BRAC University. MERN Stack Developer specializing in building modern, scalable, and responsive web applications using React.js, Node.js, Express.js, and MongoDB, with proficiency in JavaScript, TypeScript, Next.js, and RESTful APIs. Combines strong problem-solving skills with a product-oriented mindset to develop efficient, maintainable, and user-focused software solutions that deliver business value.
 
 ---
 
